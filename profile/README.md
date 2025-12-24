@@ -32,12 +32,12 @@
 | Lab | 명칭              | 핵심 목표                                | 활동 상태 |
 | --- | --------------- | ------------------------------------ |------------------|
 | 1   | Automation Lab  | Gemini 기반 자동화 어시스턴트(MCP 구조) 구현       | 활동 중|
-| 2   | Archive Lab     | 논문 및 학술자료 구조화, 저장소(DSPace/Notion) 구축 | 활동 예정|
-| 3   | AICurator Lab   | KDC 기반 추천 시스템 + Gemini 프롬프트 구조 설계    | 활동 예정|
+| 2   | Archive Lab     | 논문 및 학술자료 구조화, 저장소(DSPace/Notion) 구축 | 활동 중|
+| 3   | AICurator Lab   | KDC 기반 추천 시스템 + Gemini 프롬프트 구조 설계    | 활동 중|
 | 4   | Infra Lab       | GitHub CI/CD, Firebase 연동, 시스템 배포 실험 | 활동 보류 |
-| 5   | Competition Lab | 대외 활동 기반 앱/웹 프로젝트 고도화                | 활동 보류|
+| 5   | Competition Lab | 대외 활동 기반 앱/웹 프로젝트 고도화                | 활동 중|
 | 6   | Idea Lab        | 전공 기반 아이디어 발굴 및 구조화                  | 활동 중|
-| -   | Personal Lab    | 자율 주제 탐구 및 개별 프로젝트 운영                | 활동 예정| 
+| -   | Personal Lab    | 자율 주제 탐구 및 개별 프로젝트 운영                | 활동 중| 
 
 ## 📚 활용 기술 및 플랫폼
 
